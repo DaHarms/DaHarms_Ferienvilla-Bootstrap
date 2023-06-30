@@ -4,8 +4,12 @@
 
 @import "../node_modules/bootstrap/scss/bootstrap";
 
+h1{
+  text-align: center;
+}
 h2{
   text-align: center;
 } 
-
-.bg-secondary-subtle
+body {
+background-color: beige;
+}
